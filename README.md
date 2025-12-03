@@ -29,3 +29,24 @@ A modern C++ implementation of the classic Breakout arcade game, built using the
 * **Math: GLM** (OpenGL Mathematics)
 
 * **Build System:** CMake
+
+## 🚀 How to Build
+
+
+### Prerequisites
+
+* CMake
+
+* C++ Compiler (MSVC, GCC, or Clang)
+
+* SDL3 Library
+
+* GLM Library
+
+### Build Steps
+```bash
+mkdir build
+cd build
+cmake ..
+cmake --build .
+```
