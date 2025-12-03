@@ -50,3 +50,10 @@ cd build
 cmake ..
 cmake --build .
 ```
+
+## 🕹️ Controls
+* **Left / Right Arrows:** Move Paddle
+
+* **Space:** Launch Ball
+
+* **R:** Restart Game (only available after Win or Loss)
